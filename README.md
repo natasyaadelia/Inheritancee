@@ -13,3 +13,6 @@
 #![AltText](https://github.com/natasyaadelia/inheritance/blob/master/ke%206.png "Hasil Enam")
 # Hasil Tujuh
 #![AltText](https://github.com/natasyaadelia/Inheritancee/blob/master/ke%207%20praktikum.png "Hasil Tujuh")
+# Praktikum
+- Inheritance adalah dimana sebuah objek dapat mempunyai objek turunan. Sebuah class yang mempunyai class turunan.
+- Peosedur yang diperlukan keyword super, keyword this, dan overloading methods
