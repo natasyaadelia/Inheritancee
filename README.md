@@ -1,6 +1,6 @@
 # Inheritancee
 # Hasil Satu
-#![AltText](https://github.com/natasyaadelia/inheritance/blob/master/ke%201.png"Hasil Satu')
+#![AltText](https://github.com/natasyaadelia/inheritance/blob/master/ke%201.png "Hasil Satu')
 # Hasil Dua
 #![AltText](https://github.com/natasyaadelia/inheritance/blob/master/ke%202.png"Hasil Dua")
 # Hasil Tiga
